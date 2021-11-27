@@ -49,7 +49,7 @@ async function getBackgroundImg(){
     
 
     
-    //fetch datetime from responseJSON
+    fetch datetime from responseJSON
     
     
 
